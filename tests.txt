@@ -1,0 +1,26 @@
+acb..bab.c.*.ab.ba.+.+*a. b 2
+4
+
+ab+c.aba.*.bac.+.+* c 4
+INF
+
+c* c 1
+1
+
+a. a 1
+ERROR
+
+ab.c+* a 1
+2
+
+ab.c+* a 2
+INF
+
+. a 1
+ERROR
+
+* a 1
+ERROR
+
++ a 1
+ERROR
