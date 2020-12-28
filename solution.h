@@ -7,7 +7,7 @@
 #include <string>
 #include <stdexcept>
 
-const int kBigInt = std::numeric_limits<int>::max() / 2;
+const int kBigInt = std::numeric_limits<int>::max() / 100000;
 
 class Stack {
     struct State {
