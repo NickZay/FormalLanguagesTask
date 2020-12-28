@@ -1,6 +1,6 @@
 #include "solution.h"
 
-#define DEBUG
+//#define DEBUG
 #ifdef DEBUG
     #define $DBG if (1)
 #else
